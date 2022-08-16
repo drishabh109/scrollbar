@@ -1,0 +1,10 @@
+.table-container {
+    height: 100vh;
+    width: 100vw !important;
+}
+
+.dataRow:hover {
+    cursor: pointer;
+    transform: scaleY(1.1);
+    transition: 0.2s ease-in-out;
+}
