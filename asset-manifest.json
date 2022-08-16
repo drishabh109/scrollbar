@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scrollbar/static/css/main.1eacc8c7.css",
+    "main.js": "/scrollbar/static/js/main.4648fd42.js",
+    "static/js/787.909e063d.chunk.js": "/scrollbar/static/js/787.909e063d.chunk.js",
+    "index.html": "/scrollbar/index.html",
+    "main.1eacc8c7.css.map": "/scrollbar/static/css/main.1eacc8c7.css.map",
+    "main.4648fd42.js.map": "/scrollbar/static/js/main.4648fd42.js.map",
+    "787.909e063d.chunk.js.map": "/scrollbar/static/js/787.909e063d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eacc8c7.css",
+    "static/js/main.4648fd42.js"
+  ]
+}
